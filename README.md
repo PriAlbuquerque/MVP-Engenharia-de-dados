@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte da Sprint: Engenharia de Dados (40530010057_20250_01) 
 Foram abordadas as etapas de coleta, modelagem, carga e análise dos dados extraídos da base Scopus, visando mapear colaborações científicas, avaliar o impacto das publicações e identificar financiamentos na pesquisa.
 
-O trabalho completo está disponível no docuemnto em pdf, [clique aqui para acessar o PDF completo](./Descritivo_MVP_ED_Priscila_Albuquerque.pdf).
+O trabalho completo está disponível no repositório, [clique aqui para acessar o PDF completo](./Descritivo_MVP_ED_Priscila_Albuquerque.pdf).
 
 
 ## Sumário
