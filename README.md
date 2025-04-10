@@ -1,8 +1,9 @@
 # MVP-Engenharia-de-dados
 
-Este projeto foi desenvolvido como parte da disciplina de Sprint: Engenharia de Dados (40530010057_20250_01) e tem como principal objetivo analisar a produção científica brasileira na área de Medicina (2005–2021). Foram abordadas as etapas de coleta, modelagem, carga e análise dos dados extraídos da base Scopus, visando mapear colaborações científicas, avaliar o impacto das publicações e identificar financiamentos na pesquisa.
+Este projeto foi desenvolvido como parte da Sprint: Engenharia de Dados (40530010057_20250_01) 
+Foram abordadas as etapas de coleta, modelagem, carga e análise dos dados extraídos da base Scopus, visando mapear colaborações científicas, avaliar o impacto das publicações e identificar financiamentos na pesquisa.
 
-Para uma documentação mais detalhada, [clique aqui para acessar o PDF completo](./Descritivo_MVP_ED_Priscila_Albuquerque.pdf).
+O trabalho completo está disponível no docuemnto em pdf, [clique aqui para acessar o PDF completo](./Descritivo_MVP_ED_Priscila_Albuquerque.pdf).
 
 
 ## Sumário
@@ -40,6 +41,7 @@ O **Catálogo de Dados** é um elemento fundamental deste projeto. Ele documenta
 - **Clareza e Transparência:** Facilita a compreensão e o uso dos dados por toda a equipe e partes interessadas.
 - **Manutenção e Evolução:** Serve como referência para atualizações e melhorias futuras, promovendo a integridade e a consistência das informações.
 - **Validação:** Auxilia na verificação da qualidade dos dados, sustentando análises críticas e decisões baseadas em evidências.
+Apresentado no pdf descritivo do projeto. [clique aqui para acessar o PDF completo](./Descritivo_MVP_ED_Priscila_Albuquerque.pdf).
 
 ## Carga dos Dados
 Os dados foram carregados e integrados utilizando scripts em Python e PySpark, executados na plataforma Databricks. Essa etapa contemplou:
